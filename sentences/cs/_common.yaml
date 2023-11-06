@@ -304,7 +304,7 @@ lists:
     wildcard: true
 expansion_rules:
   area: "[(na|v|ve)] {area}"
-  zapnout: "(zapni|zapnout)"
+  zapnout: "(zapni|zapnout|spusť|spustit)"
   vypnout: "(vypni|vypnout|zastavit|zastav)"
   rozsvitit: "(rozsviť|rozsvítit|rožn(i|out))" #some dialect to be served for users :)
   zhasnout: "(zhasni|zhasnout)"
